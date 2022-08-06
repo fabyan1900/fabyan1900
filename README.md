@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fabyan1900
+- 👀 I’m interested in data analytics, building websites
+- 🌱 I’m currently learning R
+- 📫 Reach me on linkedin; g-fabian
